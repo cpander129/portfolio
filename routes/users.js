@@ -1,3 +1,8 @@
+/*
+ * File: users.js
+ * Author: express generator
+ * Description: Route for user list?
+ */
 var express = require('express');
 var router = express.Router();
 

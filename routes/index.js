@@ -1,3 +1,8 @@
+/*
+ * File: index.js
+ * Author: Christopher Pander
+ * Description: Routes for all the pages
+ */
 var express = require('express');
 var router = express.Router();
 

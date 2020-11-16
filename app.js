@@ -1,3 +1,8 @@
+/*
+ * File: app.js
+ * Author: Express Generator
+ * Description: Contains information about application
+ */
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
