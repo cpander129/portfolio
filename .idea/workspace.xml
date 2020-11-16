@@ -19,19 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f21af45-92a6-43e9-8485-61c3a88b4625" name="Default Changelist" comment="Update pages with under construction message">
+    <list default="true" id="0f21af45-92a6-43e9-8485-61c3a88b4625" name="Default Changelist" comment="Add internal documentation">
+      <change afterPath="$PROJECT_DIR$/Assignment1aRecording.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/contact.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/contact.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/error.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/projects.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/projects.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/services.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/services.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605205221226</updated>
       <workItem from="1605205222424" duration="1478000" />
-      <workItem from="1605555780584" duration="954000" />
+      <workItem from="1605555780584" duration="2345000" />
     </task>
     <task id="LOCAL-00001" summary="Add routes and bootstrap">
       <created>1605206013309</created>
@@ -88,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605555999272</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add internal documentation">
+      <created>1605556758617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605556758617</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,12 +108,13 @@
     <MESSAGE value="Add routes and bootstrap" />
     <MESSAGE value="Add Navbar and empty pages" />
     <MESSAGE value="Update pages with under construction message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update pages with under construction message" />
+    <MESSAGE value="Add internal documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add internal documentation" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="276" key="Vcs.Push.Dialog.v2" timestamp="1605556004051">
+    <state x="1032" y="276" key="Vcs.Push.Dialog.v2" timestamp="1605556760793">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1032" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605556004051" />
+    <state x="1032" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605556760793" />
   </component>
 </project>
